@@ -31,3 +31,4 @@
 /Users/ngothinhphat/RiderProjects/Re-Store/Re-Store/obj/Debug/net8.0/Re-Store.pdb
 /Users/ngothinhphat/RiderProjects/Re-Store/Re-Store/obj/Debug/net8.0/Re-Store.genruntimeconfig.cache
 /Users/ngothinhphat/RiderProjects/Re-Store/Re-Store/obj/Debug/net8.0/ref/Re-Store.dll
+/Users/ngothinhphat/RiderProjects/Re-Store/Re-Store/obj/Debug/net8.0/Re-Store.sourcelink.json
