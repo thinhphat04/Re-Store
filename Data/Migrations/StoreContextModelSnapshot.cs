@@ -41,7 +41,7 @@ namespace Re_Store.Data.Migrations
                     b.Property<long>("Price")
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("Quantity")
+                    b.Property<int>("QuantityInStock")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Type")

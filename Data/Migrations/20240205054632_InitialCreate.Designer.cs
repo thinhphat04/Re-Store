@@ -10,7 +10,7 @@ using Re_Store.Data;
 namespace Re_Store.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20240205052952_InitialCreate")]
+    [Migration("20240205054632_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -44,7 +44,7 @@ namespace Re_Store.Data.Migrations
                     b.Property<long>("Price")
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("Quantity")
+                    b.Property<int>("QuantityInStock")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Type")

@@ -22,7 +22,7 @@ namespace Re_Store.Data.Migrations
                     PictureUrl = table.Column<string>(type: "TEXT", nullable: false),
                     Type = table.Column<string>(type: "TEXT", nullable: false),
                     Brand = table.Column<string>(type: "TEXT", nullable: false),
-                    Quantity = table.Column<int>(type: "INTEGER", nullable: false)
+                    QuantityInStock = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {
