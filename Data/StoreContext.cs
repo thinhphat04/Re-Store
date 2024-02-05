@@ -11,4 +11,6 @@ public class StoreContext : DbContext
     
     public DbSet<Product> Products { get; set; }
     
+    
+    
 }
