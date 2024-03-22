@@ -7138,11 +7138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ngothinhphat/Desktop/Re-Store/Re-Store.csproj",
+      "projectUniqueName": "/Users/ngothinhphat/Desktop/ReStore/Re-Store/Re-Store.csproj",
       "projectName": "Re-Store",
-      "projectPath": "/Users/ngothinhphat/Desktop/Re-Store/Re-Store.csproj",
+      "projectPath": "/Users/ngothinhphat/Desktop/ReStore/Re-Store/Re-Store.csproj",
       "packagesPath": "/Users/ngothinhphat/.nuget/packages/",
-      "outputPath": "/Users/ngothinhphat/Desktop/Re-Store/obj/",
+      "outputPath": "/Users/ngothinhphat/Desktop/ReStore/Re-Store/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ngothinhphat/.nuget/NuGet/NuGet.Config"

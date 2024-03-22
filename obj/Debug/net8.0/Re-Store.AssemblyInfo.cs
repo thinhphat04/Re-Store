@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Re-Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37821e2ff7c557893e3c6dc30f01a541dc6a1853")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5b4d2e28d822773d172c30bdbb72fe39bfdb0e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Re-Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Re-Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
